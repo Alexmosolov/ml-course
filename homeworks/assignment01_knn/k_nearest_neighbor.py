@@ -10,7 +10,7 @@ class KNearestNeighbor:
         pass
 
     def fit(self, X, y):
-        """
+        """kkkkkkk
         Train the classifier. For k-nearest neighbors this is just
         memorizing the training data.
 
